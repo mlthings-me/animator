@@ -1,4 +1,4 @@
-# MyPortfolio-Hacktoberfest2019 [Live Website](https://bennycarlsson.github.io/MyPortfolio-Hacktoberfest2019/)
+# MyPortfolio-Hacktoberfest2023 [Live Website](https://bennycarlsson.github.io/MyPortfolio-Hacktoberfest2019/)
 
 Help me make a horrible portfolio by letting people from all over the world contribute with their own ideas and design!
 
@@ -65,7 +65,7 @@ _Disclaimer! This is a project for fun! I do not expect a profesional or high st
 - How do I track my progress to get an awesome shirt from Hacktoberfest 2019?
   - go to : [https://hacktoberfest.digitalocean.com/profile](https://hacktoberfest.digitalocean.com/profile)
 - What is the duration of Hacktoberfest 2019?
-  - It is from October 1st till October 31st, 2019.
+  - It is from October 1st till October 31st, 2023.
 - What is the event for?
   - For the open source community engagement.
 
